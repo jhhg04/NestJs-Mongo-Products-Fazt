@@ -1,54 +1,40 @@
 
 ## Description
 ```bash
-APi Tasks
+APi Products
 NestJs 
 MongoDb
-React
-Tailwind
-react-icons
+Mongoose
 ```
-## UI
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/accd9029-ad57-4de3-9b41-8280ed0798b4)
-
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/929bb873-d4c4-46f4-abc5-70a642c26740)
-
 ## API
 ### Get
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/dc4e4fb8-590a-4f83-bbbc-28bdf657e2d4)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/fdd0a79b-a6cb-4da1-98ba-80446094cb93)
 
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/9db6c1d3-b365-422d-8557-4e4724c233e3)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/dc4f6543-4acc-4643-8e86-ee2b061cf0fb)
 
 ### Post
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/a7f627bd-db2e-44b5-93b5-4a6c04b12284)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/64e38d69-5177-427c-b647-a16c50587294)
 
 ### Put
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/72792c73-3ffb-48c5-9fd1-22b331ac620c)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/33cad43c-7ee4-44e1-b9fa-b432a416494d)
 
 ### Delete
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/0cf4b55d-da53-4610-9ddc-c5de72009481)
 
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/5ce109f0-c5b2-456c-9bcb-a8e1b97ea70e)
-
-
-## Full Project
+## Backend Project
 
 ```bash
-back -> tasksapi
-front -> tasksfront
+back -> productsapi
+
 ```
 
-## Run backend, in tasksapi folder
+## Run backend, in productsapi folder
 
 ```bash
+$ git clone https://github.com/jhhg04/NestJs-Mongo-Products-Fazt.git
+$ cd NestJs-Mongo-Products-Fazt
 $ npm install
 $ npm run start:dev
-http://localhost:3000/api/tasks/
+http://localhost:3000/product/
 ```
 
-## Run front, in tasksfront folder
-
-```bash
-$ npm install
-$ npm run dev
-http://127.0.0.1:5173/
-```
