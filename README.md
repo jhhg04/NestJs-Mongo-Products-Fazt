@@ -1,73 +1,54 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
-
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
-
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+```bash
+APi Tasks
+NestJs 
+MongoDb
+React
+Tailwind
+react-icons
+```
+## UI
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/accd9029-ad57-4de3-9b41-8280ed0798b4)
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/929bb873-d4c4-46f4-abc5-70a642c26740)
 
-## Installation
+## API
+### Get
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/dc4e4fb8-590a-4f83-bbbc-28bdf657e2d4)
+
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/9db6c1d3-b365-422d-8557-4e4724c233e3)
+
+### Post
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/a7f627bd-db2e-44b5-93b5-4a6c04b12284)
+
+### Put
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/72792c73-3ffb-48c5-9fd1-22b331ac620c)
+
+### Delete
+
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/5ce109f0-c5b2-456c-9bcb-a8e1b97ea70e)
+
+
+## Full Project
+
+```bash
+back -> tasksapi
+front -> tasksfront
+```
+
+## Run backend, in tasksapi folder
 
 ```bash
 $ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
 $ npm run start:dev
-
-# production mode
-$ npm run start:prod
+http://localhost:3000/api/tasks/
 ```
 
-## Test
+## Run front, in tasksfront folder
 
 ```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+$ npm install
+$ npm run dev
+http://127.0.0.1:5173/
 ```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
