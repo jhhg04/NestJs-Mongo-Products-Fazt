@@ -11,7 +11,8 @@ Mongoose
 ```bash
 http://localhost:3000/api
 ```
-![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/6e9ba0b7-b528-4672-bbb9-3849a8994802)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/21fe52eb-0f4d-4ca6-8c69-2df112399382)
+![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/77c6a3d4-3d64-434e-be5d-bf13865faf68)
 
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/fdd0a79b-a6cb-4da1-98ba-80446094cb93)
