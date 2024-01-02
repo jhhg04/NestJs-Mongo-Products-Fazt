@@ -7,6 +7,12 @@ MongoDb
 Mongoose
 ```
 ## API
+### Swagger
+```bash
+http://localhost:3000/api
+```
+![image](https://github.com/jhhg04/NestJs-Mongo-React-Tasks-Fazt/assets/52834318/6e9ba0b7-b528-4672-bbb9-3849a8994802)
+
 ### Get
 ![image](https://github.com/jhhg04/NestJs-Mongo-Products-Fazt/assets/52834318/fdd0a79b-a6cb-4da1-98ba-80446094cb93)
 
